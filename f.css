@@ -1,0 +1,46 @@
+ul{
+color: white;
+list-style-type:none;
+font-size:30px;
+margin:0;
+padding:0;
+background-color:#333333;
+overflow:hidden;
+}
+li{
+float:left;
+}
+li a{
+display:block;
+text-allign:center;
+padding:20px;
+color:white;
+text-decoration:none;
+}
+a:hover{
+background-color:pink;
+color:white;
+text-decoration:none;
+}
+.carousel-item{
+width:1300px;
+margin:10px;
+}
+.progress-bar{
+background-color:#90ee90;
+color:blue;
+}
+h2{
+color:red;
+font-size:60px;
+}
+.photo{
+width:400px;
+}
+footer{
+background-color:yellow;
+}
+h1{
+color:blue;
+padding:0px 0px 0px 500px;
+}
